@@ -13,8 +13,8 @@ This Chrome extension replaces occurrences of the word "Путин" and its infl
 
 1. **Clone or download this repository:**
    ```bash
-   git clone https://github.com/yourusername/replace-words-extension.git
-   cd replace-words-extension
+   git clone https://github.com/yourusername/huilo-mode.git
+   cd huilo-mode
    ```
 2. **Open Chrome and go to the Extensions page:**
    - Navigate to chrome://extensions/
@@ -76,8 +76,8 @@ Feel free to submit issues and pull requests for any improvements or bug fixes.
 
 1. **Клонируйте или скачайте этот репозиторий:**
    ```bash
-   git clone https://github.com/yourusername/replace-words-extension.git
-   cd replace-words-extension
+   git clone https://github.com/yourusername/huilo-mode.git
+   cd huilo-mode
    ```
 2. **Откройте Chrome и перейдите на страницу расширений:**
    - Перейдите по адресу chrome://extensions/
