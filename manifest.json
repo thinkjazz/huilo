@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Huilo Mode",
-    "version": "1.13",
+    "version": "1.14",
     "description": "Заменяет слово Путин на хуйло.",
     "permissions": [
       "activeTab",
@@ -33,4 +33,3 @@
       }
     }
   }
-  
