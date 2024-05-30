@@ -24,6 +24,15 @@ const replacements = {
   'путіным': 'хуйлом',
 };
 
+let found = false;
+for (const key in replacements) {
+  if (document.body.innerText.includes(key)) {
+    found = true;
+    break;
+  }
+}
+
+chrome.runtime.sendMessage({action: 'updateIcon', found: found});
 
   const regex = new RegExp(Object.keys(replacements).join("|"), "gi");
 
