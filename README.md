@@ -1,5 +1,5 @@
 
-# Huilo Mode v1.13 Chrome Extension
+# Huilo Mode v1.15 Chrome Extension
 
 This Chrome extension replaces occurrences of the word "Путин" and its inflected forms with the word "хуйло" and its appropriate inflections when the button in the popup is clicked.
 
@@ -62,7 +62,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Feel free to submit issues and pull requests for any improvements or bug fixes.
 
 
-# Расширение Huilo Mode v1.13 для Chrome
+# Расширение Huilo Mode v1.15 для Chrome
 
 Это расширение для Chrome заменяет все вхождения слова "Путин" и его форм на слово "хуйло" и его соответствующие формы при нажатии на кнопку во всплывающем окне.
 
